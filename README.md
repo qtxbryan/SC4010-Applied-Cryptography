@@ -12,3 +12,7 @@ RSA is vulnerable to attacks if the decryption key being used is sufficiently sm
 
 # Common Modulus Attack
 RSA is vulnerable to attacks if the same message is encrypted twice with the same modulus but a different public key. Sometimes such problem may happen in the internet.
+
+# References 
+https://cryptohack.gitbook.io/cryptobook/untitled/low-private-component-attacks/wieners-attack 
+https://cryptohack.gitbook.io/cryptobook/untitled/common-modulus-attack
