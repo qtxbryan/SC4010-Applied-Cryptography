@@ -4,6 +4,7 @@ This project involves demonstrations of multiple potnetial attacks against RSA c
 
 The project will demonstrate the following attacks:
 - Wiener Attack (Small Decryption Key)
+- Common Modulus Attack
 
 
 # Wiener Attack (Small Decryption Key)
